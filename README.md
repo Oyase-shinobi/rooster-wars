@@ -12,7 +12,7 @@
 1. Clone this repository
 
 ```bash
-git clone https://github.com/Metadhana-Studio/roosterwars-contracts
+git clone https://github.com/Oyase-shinobi/rooster-wars
 ```
 
 2. Install dependencies
